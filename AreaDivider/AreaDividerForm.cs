@@ -6,8 +6,8 @@ namespace AreaDivider
     {
         public AreaDividerForm()
         {
-            // InitializeComponent() was removed because the Designer.cs file is missing.
-            // If you need UI elements, you must add them manually here.
+            // This is a placeholder constructor to allow compilation without the missing Designer.cs file.
+            // All UI initialization has been removed.
         }
     }
 }
